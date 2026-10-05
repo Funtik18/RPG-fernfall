@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: da833e0237fae36429871a6794444762
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.1.1
+  assetPath: Assets/_REMOVE/Synty/InterfaceFantasyWarriorHUD/Prefabs/Input_Interactions/HUD_FantasyWarrior_ItemPickupInfo_03.prefab
+  uploadId: 995714

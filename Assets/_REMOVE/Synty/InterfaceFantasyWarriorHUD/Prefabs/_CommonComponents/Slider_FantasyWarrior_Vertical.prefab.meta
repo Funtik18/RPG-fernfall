@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 840ec3f2f773a3748aba887557fa80a9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.1.1
+  assetPath: Assets/_REMOVE/Synty/InterfaceFantasyWarriorHUD/Prefabs/_CommonComponents/Slider_FantasyWarrior_Vertical.prefab
+  uploadId: 995714

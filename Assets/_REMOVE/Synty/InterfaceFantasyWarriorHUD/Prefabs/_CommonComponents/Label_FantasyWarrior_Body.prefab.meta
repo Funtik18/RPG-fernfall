@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 520fd01a4b87a3a4686f68c84f137d68
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292533
+  packageName: Fantasy Warrior HUD - Synty INTERFACE - GUI
+  packageVersion: 1.1.1
+  assetPath: Assets/_REMOVE/Synty/InterfaceFantasyWarriorHUD/Prefabs/_CommonComponents/Label_FantasyWarrior_Body.prefab
+  uploadId: 995714

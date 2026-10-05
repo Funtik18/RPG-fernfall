@@ -1,0 +1,19 @@
+{
+    "name": "Fire.Camera",
+    "rootNamespace": "Fire.Camera",
+    "references": [
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:73e792cf0fd01b3438c14a3a994dd2ce",
+        "GUID:ba1d260f9e69eb6409c598826f52f7b9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
