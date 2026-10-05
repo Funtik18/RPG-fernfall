@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b305a15933843b4ba6dd993779d2ae1, type: 3}
+  m_Name: SceneManagerInstaller
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Managers.SceneManager.SceneManagerInstaller
+  _settings:
+    <MainMenuScene>k__BackingField:
+      _sceneAsset: {fileID: 102900000, guid: e28d1e728be68934bbae43db4919613c, type: 3}
+      _scenePath: Assets/Game/Content/Scenes/MainMenu.unity
+      _sceneName: MainMenu
+    <GameplayScene>k__BackingField:
+      _sceneAsset: {fileID: 102900000, guid: 40e83ebed9041e344b745acaf0878af8, type: 3}
+      _scenePath: Assets/Game/Content/Scenes/Gameplay.unity
+      _sceneName: Gameplay
+    <CampScene>k__BackingField:
+      _sceneAsset: {fileID: 102900000, guid: 855922fff669236489dfc41a05c308bb, type: 3}
+      _scenePath: Assets/Game/Content/Scenes/Camp.unity
+      _sceneName: Camp
+    <BattleScene>k__BackingField:
+      _sceneAsset: {fileID: 102900000, guid: 9b25a6343b3295d4890e4f8c8e5e27f2, type: 3}
+      _scenePath: Assets/Game/Content/Scenes/Battlle.unity
+      _sceneName: Battlle

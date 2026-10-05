@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ad8e45d4ad24bb6a7229c0a0a5124c3, type: 3}
+  m_Name: BattleFuryConfig
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Core.Gameplay.TBS.BattleFuryConfig
+  <RageThreshold>k__BackingField: 50
+  <FuryThreshold>k__BackingField: 100
+  <AllyDyingNear>k__BackingField: 40
+  <AllyDyingNearRange>k__BackingField: 3
+  <AllyDyingFar>k__BackingField: 15
+  <AllyDyingFarRange>k__BackingField: 4
+  <LowHealth>k__BackingField: 25
+  <LowHealthPercent>k__BackingField: 25
+  <KillEnemy>k__BackingField: 10
+  <FuryEndChance>k__BackingField: 40
+  <Effects>k__BackingField:
+    <Effects>k__BackingField:
+    - rid: 6230338247210565845
+    - rid: 6230338247210565846
+    - rid: 6230338247210565847
+  references:
+    version: 2
+    RefIds:
+    - rid: 6230338247210565845
+      type: {class: FuryRageEffectSettings, ns: Game.Core.Gameplay.TBS, asm: Assembly-CSharp}
+      data:
+        <UID>k__BackingField: e_rage
+        <X>k__BackingField: 2
+        <Y>k__BackingField: 10
+        <Z>k__BackingField: 0
+    - rid: 6230338247210565846
+      type: {class: FuryEffectSettings, ns: Game.Core.Gameplay.TBS, asm: Assembly-CSharp}
+      data:
+        <UID>k__BackingField: e_fury
+        <X>k__BackingField: 4
+        <Y>k__BackingField: 3
+        <Z>k__BackingField: 3
+    - rid: 6230338247210565847
+      type: {class: FuryExhaustedEffectSettings, ns: Game.Core.Gameplay.TBS, asm: Assembly-CSharp}
+      data:
+        <UID>k__BackingField: e_exhausted
+        <X>k__BackingField: 5
+        <Y>k__BackingField: 1
+        <Z>k__BackingField: 0

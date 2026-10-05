@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e77039d8176c4bccb5cc5b0f65603acf, type: 3}
+  m_Name: Cleave
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Core.Systems.SheetSystem.CleaveCombatArtConfig
+  <UID>k__BackingField: art_cleave
+  <Name>k__BackingField: Cleave
+  <Damage>k__BackingField: 0
+  <Hit>k__BackingField: -10
+  <Uses>k__BackingField: 5
+  <FollowUp>k__BackingField: 0
+  <X>k__BackingField: 50
+  <Y>k__BackingField: 0
+  <Z>k__BackingField: 0

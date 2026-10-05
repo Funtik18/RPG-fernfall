@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3183a74ffbff4d35b6f20dfef75ae4eb, type: 3}
+  m_Name: Arsonist
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Core.Systems.SheetSystem.ClassConfig
+  <UID>k__BackingField: cls_arsonist
+  <Name>k__BackingField: Arsonist
+  <IsCanCounterattack>k__BackingField: 1
+  <IsCanFollowUpAttack>k__BackingField: 1
+  <Stats>k__BackingField:
+    <HealthPoints>k__BackingField: 12
+    <Strength>k__BackingField: 1
+    <Dexterity>k__BackingField: 4
+    <Speed>k__BackingField: 5
+    <Luck>k__BackingField: 3
+    <Defense>k__BackingField: 1
+    <Resist>k__BackingField: 3
+    <Craft>k__BackingField: 4
+    <Avoid>k__BackingField: 0
+    <Hit>k__BackingField: 0
+    <Critical>k__BackingField: 0
+    <DefenseIgnore>k__BackingField: 0
+    <MoveRange>k__BackingField: 5
+  <Skills>k__BackingField:
+    <Skills>k__BackingField:
+    - <Level>k__BackingField: 1
+      <Skill>k__BackingField: {fileID: 11400000, guid: 62f6f7c5df8ffe24fa368de3ccf24cae, type: 2}
+    - <Level>k__BackingField: 10
+      <Skill>k__BackingField: {fileID: 11400000, guid: 45941efb8b17a4a4cb94b2d376621604, type: 2}
+  <WeaponsFamily>k__BackingField: {fileID: 11400000, guid: 02a5e4128d27a3943b46ebad0c3464d4, type: 2}

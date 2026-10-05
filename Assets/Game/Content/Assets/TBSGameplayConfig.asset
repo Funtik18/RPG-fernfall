@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef78d68eb21b4241a8fe8ac090cbd199, type: 3}
+  m_Name: TBSGameplayConfig
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Core.Gameplay.TBSGameplayConfig
+  <LineRendererPrefab>k__BackingField: {fileID: 7956193072421503973, guid: 1e309e2d5427c8248a9a6f95beac5528, type: 3}
+  <EnemyRetreatChance>k__BackingField: 25
+  <FollowUpSpeedDifference>k__BackingField: 5
+  <SellRatio>k__BackingField: 50
+  <AllySupport>k__BackingField: {fileID: 11400000, guid: 5dd923dea1c8f5b4190ac1d0b7ce5420, type: 2}
+  <Fury>k__BackingField: {fileID: 11400000, guid: 32dcb454a5561eb47a1def261aa1ea07, type: 2}
+  <Fear>k__BackingField: {fileID: 11400000, guid: 0a7cd04160422a6418383bc2ff79b91a, type: 2}

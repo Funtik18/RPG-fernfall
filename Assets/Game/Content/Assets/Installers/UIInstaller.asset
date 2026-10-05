@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3decd0398a1743f381c290f4743a5031, type: 3}
+  m_Name: UIInstaller
+  m_EditorClassIdentifier: Assembly-CSharp::Game.UI.UIInstaller
+  _settings:
+    <RootPrefab>k__BackingField: {fileID: 6295122590850701604, guid: e9fe086def76f4e4099ec63bae250343, type: 3}
+    <Screens>k__BackingField:
+    - {fileID: 6463484117019148209, guid: 7a643b502fb5ef840b9df6eedb07dc9f, type: 3}
+    - {fileID: 2361691703549163689, guid: 98c610af1a8746047841f181096a5685, type: 3}
+    - {fileID: 7119028292140803728, guid: 998f69825667790488daf13542534dea, type: 3}
+    - {fileID: 214460712695095498, guid: a491cbc821d4f214ca98a38dd3d32b45, type: 3}
+    - {fileID: 3673232209267822640, guid: cf69b74984d4e514184c9535935cc4db, type: 3}
+    - {fileID: 2520600395376495115, guid: e9a26e3c39a336b4e8b6f5a1fc85866d, type: 3}
+    <Dialogs>k__BackingField:
+    - {fileID: 2060888217150591644, guid: 28b528db8d4cb534e87443a9fc17de0a, type: 3}

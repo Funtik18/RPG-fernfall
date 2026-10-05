@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3183a74ffbff4d35b6f20dfef75ae4eb, type: 3}
+  m_Name: Blacksmith
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Core.Systems.SheetSystem.ClassConfig
+  <UID>k__BackingField: cls_blacksmith
+  <Name>k__BackingField: Blacksmith
+  <IsCanCounterattack>k__BackingField: 1
+  <IsCanFollowUpAttack>k__BackingField: 1
+  <Stats>k__BackingField:
+    <HealthPoints>k__BackingField: 17
+    <Strength>k__BackingField: 5
+    <Dexterity>k__BackingField: 2
+    <Speed>k__BackingField: 4
+    <Luck>k__BackingField: 3
+    <Defense>k__BackingField: 4
+    <Resist>k__BackingField: 2
+    <Craft>k__BackingField: 0
+    <Avoid>k__BackingField: 0
+    <Hit>k__BackingField: 0
+    <Critical>k__BackingField: 0
+    <DefenseIgnore>k__BackingField: 0
+    <MoveRange>k__BackingField: 4
+  <Skills>k__BackingField:
+    <Skills>k__BackingField:
+    - <Level>k__BackingField: 1
+      <Skill>k__BackingField: {fileID: 11400000, guid: d91ad629de44e2948846decc50d57c4c, type: 2}
+    - <Level>k__BackingField: 10
+      <Skill>k__BackingField: {fileID: 11400000, guid: c8618abc9c94bfc469aa8ab96733dc0a, type: 2}
+  <WeaponsFamily>k__BackingField: {fileID: 11400000, guid: 1264fa5f2768ac1488adb6873957e132, type: 2}

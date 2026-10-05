@@ -1,0 +1,6 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Game/Content/CampaignEditor/USS/CE_Tokens.uss?fileID=7433441132597879392&amp;guid=3b4f653f03ef86c428872e39d20ae623&amp;type=3#CE_Tokens"/>
+    <Style src="project://database/Assets/Game/Content/CampaignEditor/USS/CE_Layout.uss?fileID=7433441132597879392&amp;guid=0b4d0e83796d29b4c8b30fabd917632d&amp;type=3#CE_Layout"/>
+    <Style src="project://database/Assets/Game/Content/CampaignEditor/USS/CE_Components.uss?fileID=7433441132597879392&amp;guid=279a9fb7c267541468b390c43fe1c52d&amp;type=3#CE_Components"/>
+    <ui:VisualElement name="Root" class="ce-root" style="flex-grow: 1;"/>
+</ui:UXML>

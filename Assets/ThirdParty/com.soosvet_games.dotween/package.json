@@ -1,0 +1,11 @@
+{
+    "name" : "com.soosvet_games.dotween",
+    "displayName" : "Soosvet Games DoTween",
+    "version" : "1.0.1",
+    "author" : "Soosvet Games",
+    "description" : "DoTween",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Soosvet-games/com.soosvet_games.dotween"
+    }
+}

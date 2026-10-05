@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b7d6ebc68094b0ca65a4817f4afd155, type: 3}
+  m_Name: PeasantUnitConfig_3
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Core.Gameplay.TBS.EnemyUnitConfig
+  <UID>k__BackingField: PEASANT_3
+  <SpawnGroup>k__BackingField: {fileID: 11400000, guid: ef8cf6554f27504488840e0b16c4e13c, type: 2}
+  <Prefab>k__BackingField: {fileID: 91272623654920231, guid: f5baa4823f325e245bad80482e3a1198, type: 3}
+  <AIBehaviour>k__BackingField: {fileID: 11400000, guid: b8664b9f19caa374ab688400e64bebc3, type: 2}
+  <SheetSettings>k__BackingField:
+    <Information>k__BackingField:
+      <Name>k__BackingField: Peasant 3
+    <Fraction>k__BackingField: {fileID: 11400000, guid: d18fbe6419bcacd4d8da3ae83f4c7a4f, type: 2}
+    <Class>k__BackingField: {fileID: 11400000, guid: 35d8a03e19870a545b8302bfb14858bc, type: 2}
+    <Inventory>k__BackingField:
+      <Items>k__BackingField: []

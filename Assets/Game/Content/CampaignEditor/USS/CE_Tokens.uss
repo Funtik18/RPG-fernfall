@@ -1,0 +1,7 @@
+VisualElement {
+}
+
+.ce-root {
+    flex-grow: 1;
+    background-color: rgb(23, 19, 15);
+}

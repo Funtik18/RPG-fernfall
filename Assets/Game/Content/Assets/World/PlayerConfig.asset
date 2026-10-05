@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1927f7a608184c61904dd5228548defc, type: 3}
+  m_Name: PlayerConfig
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Core.Gameplay.Player.PlayerConfig
+  <UID>k__BackingField: PLAYER
+  <PlayerLayerMask>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 1024
+  <InteractableLayerMask>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 0
+  <GroundLayerMask>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 256
+  <MovementSettings>k__BackingField:
+    <MoveSpeed>k__BackingField: 5
+    <RotationSpeed>k__BackingField: 12
+    <StopDistance>k__BackingField: 0.05
+  <CameraSettings>k__BackingField:
+    <Distance>k__BackingField: 12
+    <MinDistance>k__BackingField: 5
+    <MaxDistance>k__BackingField: 18
+    <ZoomSpeed>k__BackingField: 2
+    <ZoomSmoothTime>k__BackingField: 0.08
+    <Pitch>k__BackingField: 50
+    <Yaw>k__BackingField: 0
+    <FollowSmoothTime>k__BackingField: 0.12
+    <FreeMoveSpeed>k__BackingField: 10
+  <Prefab>k__BackingField: {fileID: 1292373646878124812, guid: 794e3107d5b3f9245a2577545aa1b45b, type: 3}
